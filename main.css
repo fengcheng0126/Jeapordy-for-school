@@ -1,0 +1,38 @@
+h1 {
+    font-weight: 600;
+    color: dodgerblue;
+    text-align: center;
+    font-size: 40px;
+}
+
+body {
+    background-color: skyblue ;
+}
+
+.r1 {
+    background-color: goldenrod;
+    height: 100px;
+    width: 110px;
+}
+
+.r2 {
+    background-color: indianred ;
+    height: 100px;
+    width: 110px;
+}
+
+.r3 {
+    background-color: silver;
+    height: 100px;
+    width: 110px;
+}
+
+div {
+    display: inline-block;
+    margin: 50px 270px 50px 270px;
+}
+
+.L100questions {
+    font-size: 35px;
+}
+
