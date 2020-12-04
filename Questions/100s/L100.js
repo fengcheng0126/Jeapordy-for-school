@@ -1,3 +1,5 @@
+"use strict";
+
 function answer1() {
     document.getElementById("question").innerHTML="Wrong. The correct answer is 1:6";
 }
