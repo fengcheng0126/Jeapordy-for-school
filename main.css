@@ -5,31 +5,34 @@ h1 {
     font-size: 40px;
 }
 
+.c1 {
+    background-color: goldenrod;
+    height: 100px;
+    width: 110px;
+    align-self: auto;
+}
+
+.c2 {
+    background-color: goldenrod ;
+    height: 100px;
+    width: 110px;
+    align-self: auto;
+}
+
+.c3 {
+    background-color: goldenrod;
+    height: 100px;
+    width: 110px;
+    align-self: auto;
+}
+
 body {
     background-color: lightseagreen ;
 }
 
-.r1 {
-    background-color: goldenrod;
-    height: 100px;
-    width: 110px;
-}
-
-.r2 {
-    background-color: goldenrod ;
-    height: 100px;
-    width: 110px;
-}
-
-.r3 {
-    background-color: goldenrod;
-    height: 100px;
-    width: 110px;
-}
-
 div {
     display: inline-block;
-    margin: 50px 270px 50px 270px;
+    margin: 30px 0 40px 0;
 }
 
 .jQuestions {
