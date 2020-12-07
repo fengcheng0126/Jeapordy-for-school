@@ -5,29 +5,8 @@ h1 {
     font-size: 40px;
 }
 
-.c1 {
-    background-color: goldenrod;
-    height: 100px;
-    width: 110px;
-    align-self: auto;
-}
-
-.c2 {
-    background-color: goldenrod ;
-    height: 100px;
-    width: 110px;
-    align-self: auto;
-}
-
-.c3 {
-    background-color: goldenrod;
-    height: 100px;
-    width: 110px;
-    align-self: auto;
-}
-
 body {
-    background-color: lightseagreen ;
+    background-color: mediumaquamarine ;
 }
 
 div {
