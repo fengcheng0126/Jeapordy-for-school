@@ -1,0 +1,1 @@
+<?php header('Location: /andrew/Jeapordy-for-school'); ?>
