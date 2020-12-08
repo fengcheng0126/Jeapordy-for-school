@@ -1,1 +1,1 @@
-<?php header('Location: /andrew/Jeapordy-for-school'); ?>
+<?php header('Location: /andrew/Jeapordy-for-school/index.html'); ?>
